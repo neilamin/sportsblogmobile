@@ -1,0 +1,3 @@
+rootProject.name = 'sportsblogmobile'
+
+include ':app'
